@@ -1,0 +1,10 @@
+docs/
+.chroma/
+bin/
+lib/
+include/
+share/
+pyvenv.cfg
+.DS_Store
+.env*
+__pycache__/
